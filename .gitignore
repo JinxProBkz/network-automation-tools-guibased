@@ -1,0 +1,11 @@
+venv/
+**/__pycache__/
+legacy/creds/credentials.json
+legacy/creds/key.key
+legacy/results
+aci/results
+inventory.csv
+legacy/creds/credentials.json
+results
+/legacy/backup_config/output
+connect_error.csv
